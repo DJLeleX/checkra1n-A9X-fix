@@ -1,14 +1,13 @@
 Notes: 
 
-As of end-March 2022, checkra1n still didn't fix this issue / release a new update, so this method still works.
-Soon, I will be making a new guide (with pictures) on how to use this script as it was complicated for many people.
+As of today, checkra1n still didn't fix this issue / release a new update, so this method still works.
 
 --------------------------------------------------
 
 Requirements: 
 
-- iPad Pro 9.7-inch (2016) or iPad Pro 12.9-inch (2015) with iOS 14.5 or higher
-- checkra1n.app installed & located in the Applications folder, if it's not there, move it to there or change the path in the script
+- iPad Pro 9.7-inch (2016) or iPad Pro 12.9-inch (2015) with iOS 14 or higher
+- checkra1n.app installed & located in the Applications folder (macOS)
 
 --------------------------------------------------
 
